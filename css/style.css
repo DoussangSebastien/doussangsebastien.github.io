@@ -1,7 +1,9 @@
 body {
     cursor: url("/images/cursor.png"), auto;
-    overflow: hidden;
+    /* overflow: hidden; */
+    overflow: scroll;
     background-image: url("/images/pom2.jpg");
+    background-repeat: no-repeat;
 }
 
 .main_window {
