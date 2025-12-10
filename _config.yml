@@ -6,6 +6,8 @@ lang: "en"
 
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # index
 birthdate: 2006-08-29
